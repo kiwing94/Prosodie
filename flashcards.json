@@ -1,0 +1,27 @@
+{
+    "chinese": {
+        "仁": "benevolence",
+        "义": "righteousness",
+        "礼": "propriety"
+    },
+    "greek": {
+        "λόγος": "word",
+        "χάρις": "grace",
+        "ἀλήθεια": "truth"
+    },
+    "latin": {
+        "amicus": "friend",
+        "bellum": "war",
+        "amor": "love"
+    },
+    "sanskrit": {
+        "धर्म": "duty",
+        "शक्ति": "power",
+        "प्रेम": "love"
+    },
+    "norse": {
+        "ᚠ": "wealth",
+        "ᚢ": "strength",
+        "ᛏ": "honor"
+    }
+}

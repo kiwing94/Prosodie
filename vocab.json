@@ -1,0 +1,46 @@
+{
+    "chinese": {
+        "greetings": {
+            "你好": "Hello",
+            "再见": "Goodbye"
+        },
+        "introductions": {
+            "我叫": "My name is",
+            "你好吗": "How are you?"
+        },
+        "水": "Water"
+    },
+    "greek": {
+        "greetings": {
+            "Χαίρετε": "Hello",
+            "Αντίο": "Goodbye"
+        },
+        "introductions": {
+            "Με λένε": "My name is",
+            "Πώς είστε;": "How are you?"
+        }
+    },
+    "latin": {
+        "greetings": {
+            "Salve": "Hello",
+            "Vale": "Goodbye"
+        },
+        "introductions": {
+            "Nomen mihi est": "My name is",
+            "Quomodo te habes?": "How are you?"
+        }
+    },
+    "sanskrit": {
+        "greetings": {
+            "नमस्ते": "Hello",
+            "अलविदा": "Goodbye"
+        },
+        "introductions": {
+            "मम नाम": "My name is",
+            "भवान कस्याः?": "How are you?"
+        }
+    },
+    "norse": {
+        "vatn": "water"
+    }
+}
